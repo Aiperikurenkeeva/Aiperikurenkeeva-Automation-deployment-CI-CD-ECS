@@ -1,1 +1,1 @@
-# Aiperikurenkeeva-Automation-deployment-CI-CD-ECS
+# Automation-deployment-CI-CD-ECS
